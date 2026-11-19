@@ -6,5 +6,7 @@
         Width="500" Height="400"
         x:Class="okno.MainWindow"
         Title="Moje Drugie Okno">
-    <TextBlock Text="Warsztat" FontSize="28" Foreground="Coral" HorizontalAlignment="Center" VerticalAlignment="Center" />
+    <StackPanel Spacing="15" Margin="20" HorizontalAlignment="Center" VerticalAlignment="Center">
+        <TextBlock Text="Warsztat" FontSize="28" Foreground="Coral" HorizontalAlignment="Center" />
+    </StackPanel>
 </Window>
