@@ -10,3 +10,4 @@
 10. Dodaj pole wyboru CheckBox z etykietą „Zapamiętaj mój wybór” — diff 1 linia, rozumiem 1.
 11. Dodaj suwak Slider z zakresem od 0 do 100 i wartością 50 — diff 1 linia, rozumiem 1.
 12. Dodaj pasek postępu ProgressBar z wartością 50 procent pod suwakiem — diff 1 linia, rozumiem 1.
+13. Dodaj przełącznik typu ToggleSwitch z podpisem „Tryb powiadomień” — diff 1 linia, rozumiem 1.

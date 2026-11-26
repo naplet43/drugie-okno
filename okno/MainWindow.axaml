@@ -14,5 +14,6 @@
         <CheckBox Content="Zapamiętaj mój wybór" HorizontalAlignment="Center" />
         <Slider Minimum="0" Maximum="100" Value="50" Width="260" HorizontalAlignment="Center" />
         <ProgressBar Minimum="0" Maximum="100" Value="50" Width="260" Height="8" HorizontalAlignment="Center" />
+        <ToggleSwitch Content="Tryb powiadomień" HorizontalAlignment="Center" />
     </StackPanel>
 </Window>
