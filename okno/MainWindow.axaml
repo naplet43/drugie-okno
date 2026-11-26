@@ -11,5 +11,6 @@
         <TextBlock Text="Aplikacja zbudowana z agentem" FontSize="14" Foreground="Gray" HorizontalAlignment="Center" />
         <TextBox PlaceholderText="Wpisz swoje imię" Width="260" HorizontalAlignment="Center" />
         <Button Content="Zatwierdź" HorizontalAlignment="Center" />
+        <CheckBox Content="Zapamiętaj mój wybór" HorizontalAlignment="Center" />
     </StackPanel>
 </Window>

@@ -7,3 +7,4 @@
 7. Dodaj podtytuł z tekstem „Aplikacja zbudowana z agentem” pod głównym napisem — diff 1 linia, rozumiem 1.
 8. Dodaj przycisk z napisem „Zatwierdź” — diff 1 linia, rozumiem 1.
 9. Dodaj pole tekstowe z tekstem zastępczym „Wpisz swoje imię” — diff 1 linia, rozumiem 1.
+10. Dodaj pole wyboru CheckBox z etykietą „Zapamiętaj mój wybór” — diff 1 linia, rozumiem 1.
