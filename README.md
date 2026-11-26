@@ -6,3 +6,4 @@
 6. Opakuj zawartość okna w StackPanel z odstępem 15 pikseli — diff 4 linie, rozumiem 4.
 7. Dodaj podtytuł z tekstem „Aplikacja zbudowana z agentem” pod głównym napisem — diff 1 linia, rozumiem 1.
 8. Dodaj przycisk z napisem „Zatwierdź” — diff 1 linia, rozumiem 1.
+9. Dodaj pole tekstowe z tekstem zastępczym „Wpisz swoje imię” — diff 1 linia, rozumiem 1.

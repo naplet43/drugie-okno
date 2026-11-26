@@ -9,6 +9,7 @@
     <StackPanel Spacing="15" Margin="20" HorizontalAlignment="Center" VerticalAlignment="Center">
         <TextBlock Text="Warsztat" FontSize="28" Foreground="Coral" HorizontalAlignment="Center" />
         <TextBlock Text="Aplikacja zbudowana z agentem" FontSize="14" Foreground="Gray" HorizontalAlignment="Center" />
+        <TextBox PlaceholderText="Wpisz swoje imię" Width="260" HorizontalAlignment="Center" />
         <Button Content="Zatwierdź" HorizontalAlignment="Center" />
     </StackPanel>
 </Window>
