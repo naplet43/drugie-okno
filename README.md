@@ -12,3 +12,4 @@
 12. Dodaj pasek postępu ProgressBar z wartością 50 procent pod suwakiem — diff 1 linia, rozumiem 1.
 13. Dodaj przełącznik typu ToggleSwitch z podpisem „Tryb powiadomień” — diff 1 linia, rozumiem 1.
 14. Ustaw otwieranie okna na środku ekranu — diff 1 linia, rozumiem 1.
+15. Włącz ciemny motyw w pliku App.axaml — diff 2 linie, rozumiem 2.
